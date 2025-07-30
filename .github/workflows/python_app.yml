@@ -15,3 +15,8 @@ jobs:
         run: pip install flake8
       - name: Lint with flake8
         run: flake8 dev_tip.py
+
+
+      - name: Run tests
+        run: |
+        python3 -m unittest discover -s . -p "test_*.py"
