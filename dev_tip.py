@@ -1,5 +1,6 @@
 import random
 
+
 tips = [
     "Use 'git status' often to see your repo state.",
     "Commit small, focused changes with clear messages.",
@@ -11,9 +12,11 @@ tips = [
     "Regularly pull and merge changes from main branch."
 ]
 
+
 def main():
     print("🛠️  Dev Tip of the Day:")
     print(random.choice(tips))
+
 
 if __name__ == "__main__":
     main()
