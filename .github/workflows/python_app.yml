@@ -18,5 +18,5 @@ jobs:
 
 
       - name: Run tests
-        run: |
-        python3 -m unittest discover -s . -p "test_*.py"
+        run: | 
+          python3 -m unittest discover -s . -p "test_*.py"
