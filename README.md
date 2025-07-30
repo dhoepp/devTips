@@ -1,1 +1,1 @@
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/python-app.yml/badge.svg)
+![CI](https://github.com/dhoepp/devTips/actions/workflows/python-app.yml/badge.svg)
