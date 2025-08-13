@@ -3,7 +3,6 @@ from unittest.mock import patch
 import dev_tip
 
 
-
 class TestDevTip(unittest.TestCase):
     def test_tips_list_exists(self):
         """Test that tips list exists and has content"""
@@ -53,7 +52,6 @@ class TestDevTip(unittest.TestCase):
 
         # Verify that we can theoretically select all tips
         self.assertEqual(len(selected_tips), len(dev_tip.tips))
-
 
 
 if __name__ == "__main__":

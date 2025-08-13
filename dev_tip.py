@@ -14,7 +14,7 @@ tips = [
     "Always test and validate AI suggestions - they can be wrong or incomplete.",  # noqa: E501
     "Learn programming fundamentals; don't just copy-paste AI solutions.",
     "Practice debugging without AI first - build your problem-solving skills.",
-    "Use AI as a collaborator, not a replacement for critical thinking."
+    "Use AI as a collaborator, not a replacement for critical thinking.",
     "Write descriptive variable and function names.",
     "Use code comments to explain 'why', not 'what'.",
     "Learn keyboard shortcuts for your IDE or editor.",
